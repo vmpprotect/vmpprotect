@@ -29,3 +29,5 @@
 > virt.mem.protection on discord
 
 > peauth on telegram (won't check as much. use it mainly for music leaks lol)
+
+<img src="https://counter.lunoxia.net/get/@vmpprotect?theme=asoul"></img>
