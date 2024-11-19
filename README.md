@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**vmpprotect/vmpprotect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My name is vmp and I am a cheat developer**
 
-Here are some ideas to get you started:
+*I work w/*
+> C
+> C++
+> Python
+> HTML / CSS (Not really a lang but still)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Past projects*
+> Makfn.xyz / Backbone | Fortnite Internals
+> xposed.wtf | Fortnite Internal
+> Corrupt.top / hardline | Fortnite Web-based External
+> Static-cheats.com | Free spoofers n such for fun
+
+*contact me!*
+> vmp@xposed.wtf
+> virt.mem.protection on discord
+> peauth on telegram (won't check as much. use it mainly for music leaks lol)
