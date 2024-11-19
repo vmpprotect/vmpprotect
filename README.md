@@ -22,7 +22,7 @@
 
 > Static-cheats.com | Free spoofers n such for fun
 
-*contact me!*
+*Contact me!*
 
 > vmp@xposed.wtf
 
