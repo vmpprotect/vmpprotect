@@ -14,7 +14,7 @@
 
 *Past projects*
 
-> Corrupt.top / hardline | Fortnite Web-based External (CURRENT MAIN PROJECT)
+> Corrupt.top / hardline | Fortnite External
 
 > Makfn.xyz / Backbone | Fortnite Internals
 
