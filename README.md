@@ -26,6 +26,8 @@
 
 > vmp@xposed.wtf
 
+> https://x.com/mr_vmp
+
 > virt.mem.protection on discord
 
 > peauth on telegram (won't check as much. use it mainly for music leaks lol)
