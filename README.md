@@ -14,9 +14,9 @@
 
 *Past projects*
 
-> Corrupt.top / hardline | Fortnite External
+> Corrupt.top / hardline | Fortnite External | Sigged By EAC 1x
 
-> Makfn.xyz / Backbone | Fortnite Internals
+> Makfn.xyz / Backbone | Fortnite Internals | Sigged by EAC/BE 2x
 
 > xposed.wtf | Fortnite Internal
 
