@@ -12,11 +12,16 @@
 
 > HTML / CSS (Not really a lang but still)
 
-**Favorite...**
-> Pet type : Cat
-> Food : Pizza
-> Quote : "I am the one who sees through the roadblocks, I do not fight the last war, I see the world as it is, I see the world without the blinders that have been put in place."
-> Place : My Room, duh
+*Current Project*
+> https://corrupt.top / hardline | Fortnite Externals, Valorant Internal, Spoofers, Much more. | Sigged By EAC 1x
+
+*Past projects*
+
+> Makfn.xyz / Backbone | Fortnite Internals | Sigged by EAC/BE 2x
+
+> xposed.wtf | Fortnite Internal
+
+> Static-cheats.com | Free spoofers n such for fun
 
 *Contact me!*
 
