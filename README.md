@@ -29,7 +29,7 @@
 
 > https://x.com/mr_vmp
 
-> virt.mem.protection on discord
+> vm_protect on discord
 
 > peauth on telegram (won't check as much. use it mainly for music leaks lol)
 
