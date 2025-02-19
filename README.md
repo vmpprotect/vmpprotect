@@ -14,7 +14,9 @@
 
 *Current Projects*
 > https://corrupt.top / hardline | Fortnite Externals, Valorant Internal, Spoofers, Much more. | Sigged By EAC 1x
+
 > orelia internal | fortnitr internal rich w/ features
+
 *Past projects*
 
 > Makfn.xyz / Backbone | Fortnite Internals | Sigged by EAC/BE 2x
