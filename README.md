@@ -29,7 +29,7 @@
 > Static-cheats.com | Free spoofers n such for fun
 
 *Contact me!*
-
+> virtualmemory_protection on discord
 > vmp@xposed.wtf
 
 > https://x.com/mr_vmp
