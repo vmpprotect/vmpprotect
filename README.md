@@ -13,6 +13,7 @@
 > HTML / CSS (Not really a lang but still)
 
 *Current Projects*
+> ruby | DMA projects.
 
 > immunity | fortnite, rust, apex, spoofers, and more
 
