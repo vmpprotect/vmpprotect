@@ -30,6 +30,7 @@
 
 *Contact me!*
 > virtualmemory_protection on discord
+
 > vmp@xposed.wtf
 
 > https://x.com/mr_vmp
