@@ -12,10 +12,11 @@
 
 > HTML / CSS (Not really a lang but still)
 
-*Current Projects*
-> ruby | DMA projects.
+*Learning*
+> TypeScript
 
-> immunity | fortnite, rust, apex, spoofers, and more
+*Current Projects*
+> https://beanadryl.cc/ | DMA projects.
 
 *Past projects*
 
@@ -35,9 +36,5 @@
 > vmp@xposed.wtf
 
 > https://x.com/mr_vmp
-
-> vm_protect on discord
-
-> peauth on telegram (won't check as much. use it mainly for music leaks lol)
 
 <img src="https://counter.lunoxia.net/get/@vmpprotect?theme=asoul"></img>
