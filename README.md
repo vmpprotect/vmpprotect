@@ -13,8 +13,8 @@
 > HTML / CSS (Not really a lang but still)
 
 *Contact me!*
-> virtualmemoryprotection on discord
+> virt.memory.protection on discord
 
-> https://x.com/mr_vmp
+> https://t.me/UCWarrior
 
 <img src="https://counter.lunoxia.net/get/@vmpprotect?theme=asoul"></img>
