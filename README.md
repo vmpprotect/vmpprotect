@@ -8,7 +8,7 @@
 ### About Me
 
 I’m **vmp**, a 17 year old developer focused on **low-level systems, reverse engineering, and tooling**.  
-I enjoy tearing things apart to understand how they work — then rebuilding them cleaner, faster, and harder to detect.
+I enjoy tearing things apart to understand how they work, then rebuilding them cleaner and faster.
 
 I spend most of my time around:
 - memory internals  
