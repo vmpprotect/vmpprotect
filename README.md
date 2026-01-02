@@ -1,20 +1,34 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm vmp</h1>
+<h3 align="center">Low-level developer • Reverse engineer • Cheat / tooling builder</h3>
 
-**My name is vmp and I am a cheat developer**
+<p align="center">
+  <img src="https://counter.lunoxia.net/get/@vmpprotect?theme=asoul" />
+</p>
 
-*I work w/*
+### About Me
 
-> C
+I’m **vmp**, a 17 year old developer focused on **low-level systems, reverse engineering, and tooling**.  
+I enjoy tearing things apart to understand how they work — then rebuilding them cleaner, faster, and harder to detect.
 
-> C++
+I spend most of my time around:
+- memory internals  
+- networking  
+- performance-sensitive code  
+- custom tooling & loaders  
 
-> Python
+### Tech Stack
 
-> HTML / CSS (Not really a lang but still)
+```txt
+Languages:
+- C
+- C++
+- Python
+- HTML / CSS
 
-*Contact me!*
-> virt.memory.protection on discord
-
-> https://t.me/UCWarrior
-
-<img src="https://counter.lunoxia.net/get/@vmpprotect?theme=asoul"></img>
+Areas:
+- Reverse Engineering
+- Memory Manipulation
+- Networking
+- Custom Tooling
+- Automation
+```
