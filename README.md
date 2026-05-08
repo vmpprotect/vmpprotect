@@ -28,8 +28,8 @@ and building tools that are fast, minimal, and intentional.
 ## environment
 
 <p align="left">
-  <img src="https://img.shields.io/badge/windows-10-000000?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/ubuntu-26.04-000000?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/windows-10-111111?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/ubuntu-26.04-111111?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
 ```txt
@@ -61,19 +61,19 @@ tools     : automation, debugging, internal tooling
 
 <p align="left">
   <a href="mailto:root@aaddpp.lol">
-    <img src="https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://github.com/vmpprotect">
-    <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/github-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <a href="https://signal.me/#eu/b69PRf6O5gXFM-RgtxCUGCyUT2ucBAUuBBi9NJFtPKdWgDFAcwlLqr4Lg6FEhC5O">
-    <img src="https://img.shields.io/badge/signal-000000?style=for-the-badge&logo=signal&logoColor=white" />
+    <img src="https://img.shields.io/badge/signal-111111?style=for-the-badge&logo=signal&logoColor=white" />
   </a>
 
   <a href="https://discord.com/users/1464693759282253945">
-    <img src="https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/discord-111111?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
