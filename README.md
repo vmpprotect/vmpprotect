@@ -76,13 +76,3 @@ tools     : automation, debugging, internal tooling
     <img src="https://img.shields.io/badge/discord-111111?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
-
----
-
-<div align="center">
-
-```txt
-minimal • focused • low-noise
-```
-
-</div>
