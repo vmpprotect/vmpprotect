@@ -50,9 +50,9 @@ home server  : ubuntu 26.04
 </p>
 
 ```txt
-systems   : linux / windows internals
-focus     : performance, memory, networking
-tools     : automation, debugging, internal tooling
+systems : linux / windows
+focus : speed, efficiency, ledgeable
+tools : automation, debugging, internal tooling
 ```
 
 ---
